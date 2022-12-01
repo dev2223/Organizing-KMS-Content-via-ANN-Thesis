@@ -1,0 +1,17 @@
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.csproj.AssemblyReference.cache
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.AssemblyInfoInputs.cache
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.AssemblyInfo.cs
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\bin\Debug\net6.0\PreProcessing.exe
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\bin\Debug\net6.0\PreProcessing.deps.json
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\bin\Debug\net6.0\PreProcessing.runtimeconfig.json
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\bin\Debug\net6.0\PreProcessing.dll
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\bin\Debug\net6.0\ref\PreProcessing.dll
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\bin\Debug\net6.0\PreProcessing.pdb
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.dll
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\ref\PreProcessing.dll
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.pdb
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.genruntimeconfig.cache
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Abbas\source\repos\C Sharp\Essay\PreProcessing\obj\Debug\net6.0\PreProcessing.csproj.CopyComplete
