@@ -1,0 +1,3 @@
+"<b>Presenting a method for content classification in the organizational knowledge management process with the artificial neural networks approach</b>" is the subject of a thesis done for receiving a master's degree in ‌business administration (MBA) from the science & research branch of Azad University. This repository displays the work that has been done to reach the thesis objectives. </br>
+In the preprocessing phase, we implemented a computer program written in c# that extracts paragraphs from Wikipedia articles in a proper format as the raw data.</br>
+Then, we used the raw data to train & test several machine learning & deep learning models. We did this phase utilizing python programming language on the Google Colab platform.</br>
